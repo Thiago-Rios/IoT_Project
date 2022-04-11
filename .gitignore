@@ -1,0 +1,10 @@
+Data/Processed/*.csv
+Data/Modeling/*.csv
+Code/Operationalization/certificates/
+
+.vs/
+.venv/
+.idea/
+Lib/
+Scripts/
+Include/
